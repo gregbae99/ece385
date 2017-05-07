@@ -3,7 +3,10 @@ ECE 385 System Verilog/C Code
 
 Labs 4-9
 
-Final Lab: Battle Tetris
+Final Project: Battle Tetris
 - Font Driver
 - VGA Display
-- Gameplay
+- Tetris Gameplay/Tetrad Manipulation
+- Keyboard I/O
+- Single Player/Multiplayer
+- Scorekeeping on VGA
